@@ -1,7 +1,7 @@
 # 📊 LMS Data Oversight Dashboard
 
 This repository presents a **Learning Management System (LMS)** data governance and analysis project. It leverages **Power BI**, **MySQL**, and **Python** to process, analyze, and visualize key LMS metrics like attendance, completion rates, and student cohort status.
-![Dashboard Screenshot](Dashboard .png)
+![Dashboard Screenshot](Dashboard.png)
 
 
 ## 🚀 Project Overview
