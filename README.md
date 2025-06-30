@@ -83,7 +83,7 @@ This Capstone project was developed to address critical gaps in an LMS system th
 ---
 ## 📊 Power BI Dashboard
 
-![Dashboard Screenshot](./dashboard_screenshot.png)
+![Dashboard Screenshot](./dashboard.png)
 ---
 ## ✅ Conclusion
 
