@@ -81,9 +81,6 @@ This Capstone project was developed to address critical gaps in an LMS system th
 - Recommend adjusting schedules to avoid holidays
 
 ---
-## 📊 Power BI Dashboard
-![Dashboard Screenshot](Dashboard.png)
----
 ## ✅ Conclusion
 
 This project reinforced the importance of structured data governance in educational platforms. It proved how cleaning, analyzing, and visualizing can reveal actionable trends to enhance learning outcomes and operational efficiency.
